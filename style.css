@@ -1,0 +1,25 @@
+body {
+    background-color: #87a5b3;
+}
+
+#header {
+    background-color:#5d64b4;
+}
+
+#white-background {
+    background-color:white;
+}
+
+p {
+    font-size:16px!important;
+}
+
+.panel-heading {
+    background-color: #707a5e!important;
+    color:rgb(8, 8, 8)!important;
+    border-color:#745430!important;
+}
+
+h3 {
+    font-size:20px!important;
+}
